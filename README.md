@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [Ecolean](https://zakcareers.com/)
+- 🔭 I’m currently working on [Zakcareers](https://zakcareers.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
